@@ -26,8 +26,4 @@ jobs:
       - name: Display content of the text file
         run: cat ./artifacts/hello.txt
         
-      - name: Display Content
-        run: cat hello.txt
-    
-    
-  
+   
