@@ -29,7 +29,7 @@ jobs:
         name: hello-artifact
         path: ./artifacts
     - name: Display Content
-      run: cat cat ./artifacts/hello.txt
+      run: cat ./artifacts/hello.txt
     
     
   
